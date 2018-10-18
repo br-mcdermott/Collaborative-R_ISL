@@ -7,6 +7,6 @@ The statistical language R (https://www.r-project.org) , my preferred platform f
 
 I envisage two clusters of people participating in the collaboration.  One would be a cluster of beginners who have managed to install R (and maybe R studio) and are working through the beginning steps of loading some data and starting to manipulate and look at it. Cluster one would have collaborators to help when they get stuck and more detailed analyses examples to wet their appetite for more. The second cluster would be those at an intermediate level who want to explore some to the statistical concepts from the text and have their peers discuss options in the analysis and use of R.  Given the topic you might migrate between clusters one and two
 
-So we will start by working together on one to two questions from the textbook each month. There will be some guidelines given for cluster one.  Click here to find the current questions set.
+So we will start by working together on one to two questions from the textbook each month. There will be some guidelines given for cluster one.  [Click here] (.. to find the current questions set.
 
 I hope you will join us either at this Github repository or at the "Go to Meeting" site .....
